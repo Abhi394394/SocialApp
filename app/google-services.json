@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "464953844419",
+    "firebase_url": "https://socialapp-b0fa7.firebaseio.com",
+    "project_id": "socialapp-b0fa7",
+    "storage_bucket": "socialapp-b0fa7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464953844419:android:d0915105fb9b00a9edb876",
+        "android_client_info": {
+          "package_name": "com.abhishek.socialapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464953844419-600vibohojtje372ovi92vicbd9ad1p6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk8_DSdHqJ6lcLqFFa6ZsQBoHJvKy0hcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464953844419-600vibohojtje372ovi92vicbd9ad1p6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
