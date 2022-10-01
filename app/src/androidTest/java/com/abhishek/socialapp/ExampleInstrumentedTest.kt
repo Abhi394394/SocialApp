@@ -8,7 +8,4 @@ import org.junit.runner.RunWith
 
 import org.junit.Assert.*
         // Context of the app under test.
-        val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.abhishek.socialapp", appContext.packageName)
-    }
-}
+        val appContext = InstrumentationRegistry.getInst
